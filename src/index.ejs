@@ -34,7 +34,8 @@
   <script type="systemjs-importmap">
     {
       "imports": {
-        "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js"
+        "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
+		"angular-app-parcel": "http://localhost:4200/main.js"
       }
     }
   </script>
@@ -76,6 +77,7 @@
   </noscript>
   <script>
     System.import('@net-piworks/root-config');
+	System.import('angular-app-parcel');
   </script>
   <import-map-overrides-full show-when-local-storage="devtools" dev-libs></import-map-overrides-full>
 </body>
