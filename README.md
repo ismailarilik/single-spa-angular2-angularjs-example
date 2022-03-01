@@ -2,6 +2,10 @@
 
 An app shell implementation using single-spa using its layout engine feature
 
+## Requirements
+
+- Node.js v14
+
 ## Running
 
 ```sh
