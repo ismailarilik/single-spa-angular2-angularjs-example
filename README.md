@@ -5,6 +5,8 @@ An app shell implementation using single-spa using its layout engine feature
 ## Requirements
 
 - Node.js v14
+- A running [angular-app-parcel](https://gitlab.piworks.net/devops/microfrontend/single-spa/angular-app-parcel)
+- A running [angularjs-app](https://gitlab.piworks.net/devops/microfrontend/single-spa/angularjs-app)
 
 ## Running
 
