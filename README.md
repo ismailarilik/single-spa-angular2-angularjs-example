@@ -1,6 +1,6 @@
 # root-config
 
-An app shell implementation using single-spa.
+An app shell implementation using single-spa using its layout engine feature
 
 ## Running
 
