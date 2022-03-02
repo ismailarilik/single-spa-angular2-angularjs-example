@@ -7,6 +7,7 @@ An app shell implementation using single-spa using its layout engine feature, in
 - Node.js v14
 - A running angular-app-parcel (Please locate it under the same namespace as this repo)
 - A running angularjs-app (Please locate it under the same namespace as this repo)
+- A running react-app-shell (Please locate it under the same namespace as this repo)
 
 ## Running
 
