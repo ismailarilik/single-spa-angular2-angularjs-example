@@ -1,6 +1,6 @@
 # root-config
 
-An app shell implementation using single-spa using its layout engine feature
+An app shell implementation using single-spa using its layout engine feature, initially generated with the command `npx create-single-spa --moduleType root-config`.
 
 ## Requirements
 
