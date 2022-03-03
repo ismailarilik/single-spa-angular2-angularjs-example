@@ -6,7 +6,13 @@ import {
 } from "single-spa-layout";
 import microfrontendLayout from "./microfrontend-layout.html";
 
-const routes = constructRoutes(microfrontendLayout);
+const layoutData = {
+  props: {
+    authToken: "fds789dsfyuiosodusfd",
+  },
+};
+
+const routes = constructRoutes(microfrontendLayout, layoutData);
 const applications = constructApplications({
   routes,
   loadApp({ name }) {
