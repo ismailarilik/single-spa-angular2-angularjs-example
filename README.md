@@ -4,7 +4,6 @@ An app shell implementation using single-spa using its layout engine feature, in
 
 It shows these features of single-spa:
 
-- Lazy loading ([https://single-spa.js.org/docs/recommended-setup/#lazy-loading](https://single-spa.js.org/docs/recommended-setup/#lazy-loading))
 - Inter-app communication ([https://single-spa.js.org/docs/recommended-setup/#inter-app-communication](https://single-spa.js.org/docs/recommended-setup/#inter-app-communication))
 
 ## Requirements
