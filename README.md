@@ -5,6 +5,7 @@ An app shell implementation using single-spa using its layout engine feature, in
 It shows these features of single-spa:
 
 - Inter-app communication ([https://single-spa.js.org/docs/recommended-setup/#inter-app-communication](https://single-spa.js.org/docs/recommended-setup/#inter-app-communication))
+- Lifecycle props ([https://single-spa.js.org/docs/building-applications/#lifecycle-props](https://single-spa.js.org/docs/building-applications/#lifecycle-props))
 
 ## Requirements
 
