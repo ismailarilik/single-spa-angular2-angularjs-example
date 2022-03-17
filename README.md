@@ -9,7 +9,7 @@ It shows these features of single-spa:
 
 ## Requirements
 
-- Node.js v14
+- Node.js v16
 - A running angular-app-parcel (Please locate it under the same namespace as this repo)
 - A running angularjs-app (Please locate it under the same namespace as this repo)
 - A running react-app-shell (Please locate it under the same namespace as this repo)
